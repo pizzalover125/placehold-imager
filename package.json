@@ -1,0 +1,23 @@
+{
+  "name": "placehold-imager",
+  "version": "1.0.0",
+  "description": "Generates a placeholder image for all projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pizzalover125/placehold-imager.git"
+  },
+  "keywords": [
+    "image",
+    "placeholder"
+  ],
+  "author": "pizzalover125",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pizzalover125/placehold-imager/issues"
+  },
+  "homepage": "https://github.com/pizzalover125/placehold-imager#readme"
+}
